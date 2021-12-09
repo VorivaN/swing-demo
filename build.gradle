@@ -17,5 +17,5 @@ dependencies {
 
 
 launch4j {
-  mainClassName = 'SwingDemo'
+  mainClassName = 'src.main.java.SwingDemo'
 }
